@@ -1,0 +1,25 @@
+body{background-image: linear-gradient(to right bottom, #777777, #706d71, #6b6368, #67595d, #635050)
+;color:white;
+font-family: 'Cutive Mono', monospace;max-width: 1200px;
+margin: 0 auto;
+padding: 15px}
+
+header{display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;}
+#banner{width: 100%;
+background-image: url(https://images.hdqwalls.com/download/cat-asethetic-lofi-5k-pw-1600x900.jpg);
+height: 405px;   
+background-position: center;
+border-style:solid;
+border-width:40px;
+border-image:linear-gradient(to right,#A5A4CB,#8989BB)1}
+#titulo{flex-direction: column;
+line-height: 10px;
+}
+#font{font-size: 45px;}
+h1{font-size: 90px; 
+font-weight: 200;}
+
+.class{padding-left:10px}
